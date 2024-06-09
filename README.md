@@ -1,3 +1,8 @@
+# 使用效果 / Usage effect
+![](https://github.com/YoulQey/U7-File/blob/main/Auto-Pvz-gif1.gif)
+## 触发了游戏原本的BUG / Triggered the original bug in the game
+![](https://github.com/YoulQey/U7-File/blob/main/Auto-Pvz-gif2.gif)
+
 CN
 # 声明
 此脚本仅供学习与个人纪念记录。blibili视频：https://www.bilibili.com/video/BV1PZ421g7Rz
