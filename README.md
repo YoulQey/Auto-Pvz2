@@ -12,6 +12,7 @@ CN
 直接运行 `main.py` 即可
 
 # 功能
+窗口使用qt5，可实时显示预测结果，帧数，格子状态，卡片冷却状态等
 已实现自动收集阳光与使用能量豆，自动部署植物，自动吞噬墓碑，卷心菜准确冰冻，阳光过多-替换向日葵......等
 
 使用比例坐标-分辨率与窗口大小不限，
@@ -33,6 +34,7 @@ This script is for learning and personal commemoration purposes only. Bilibili v
 The runtime environment and libraries are listed in `requirements.txt`. Simply run `main.py`.
 
 # Features
+Window uses Qt5 and can display real-time prediction results, frame rate, grid status, card cooldown status, and more.
 Implemented features include automatic collection of sunlight and use of energy beans, automatic plant deployment, automatic tombstone consumption, accurate freezing with cabbage, sunflower replacement when sunlight is excessive, and more.
 
 Using proportional coordinates - resolution and window size are not limited, and resolution can be changed at any time during runtime. Demonstration resolution: `2534*1440` (limited to a 15.84:9 ratio).
