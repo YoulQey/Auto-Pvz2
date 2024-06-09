@@ -6,7 +6,7 @@ import easyocr
 from Window import out_text
 import var
 
-model = YOLO(r"D:\Yolo\Yolo\yolov8\ultralytics\u7_train\runs\detect\train3\weights\best.pt")        #加载YOLO模型
+model = YOLO("best.pt")        #加载YOLO模型
 
 camera = dxcam.create(output_idx=0, output_color="BGR", max_buffer_len=8)
 target_fps = 120     # 录制截取的帧数
